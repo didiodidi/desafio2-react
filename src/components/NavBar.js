@@ -1,5 +1,5 @@
 
-import "./Navigation.css";
+import "./NavBar.css";
 
 const Navigation = () => {
     return( 
